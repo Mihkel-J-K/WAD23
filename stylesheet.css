@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(129, 33, 33);
+    align-items: center;
+    align-content: center;
+    align-items: center;
+    align-content: center;
+    position: absolute;
+    object-position: center;
+    display: inline-block;
+}
+div {
+    position: relative;
+    top: auto;
+    bottom: auto;
+    left: 50%;
+    right: auto;
+    align-items: center;
+    align-content: center;
+    object-position: center;
+    background-color: aliceblue;
+    padding: 1rem;
+}
